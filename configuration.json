@@ -1,6 +1,6 @@
 {
-    "token": "",
+    "token": "ODA4Njk2MTIxMDIyNzQyNTc5.YCKS9A.1D7FEPWP-frN3FdZ_W7MNjkVQ2M",
     "removePreviousRewards": true,
     "updateEachMessage": true,
-    "updateEachTime": []
+    "updateEachTime": [5]
 }
